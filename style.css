@@ -139,7 +139,7 @@ canvas{
     flex-wrap: wrap;
     gap: var(--gutter-sm);
 }
-@media (max-width: 480px) {
+@media (max-width: 600px) {
     
     main section{
     width: 100%;
